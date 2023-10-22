@@ -1,5 +1,5 @@
 const factorial = require('./factorial');
 
-const result = factorial(5);
+const result = factorial(12);
 
 console.log(result);
