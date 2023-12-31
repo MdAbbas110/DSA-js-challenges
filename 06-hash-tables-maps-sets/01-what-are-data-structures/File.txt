@@ -1,0 +1,2 @@
+In Linkdlist the data stored in tha way thay each data
+knwo the adress of other data where it's actually sotred in
